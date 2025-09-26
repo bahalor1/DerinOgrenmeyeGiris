@@ -71,6 +71,6 @@ Sonuçların karşılaştırması grafiklerle yapılmış, **Validation Accuracy
 ---
 
 ##  Kaggle Notebook Linki  
-https://www.kaggle.com/code/bahalor1/bahalor-derinogrenmeyegiris
+[https://www.kaggle.com/code/bahalor1/bahalor-derinogrenmeyegiris](https://www.kaggle.com/code/bahalor1/bahalor-derinogrenmeyegiris)
 
 ---
